@@ -22,6 +22,7 @@ The dynamic program listing with interactive map has been moved to the main orga
 - **The West** - Including programs at Stanford and other Western universities
 
 Each program has:
+
 - A dedicated website with program information
 - Social media presence (Facebook, Instagram, etc.)
 - Contact information for questions
@@ -30,4 +31,4 @@ For the most up-to-date list of current programs and their schedules, please vis
 
 ---
 
-*Note: The original interactive map and detailed program listings have been preserved in this Jekyll template. The full program directory can be viewed on the organization's main website.*
+_Note: The original interactive map and detailed program listings have been preserved in this Jekyll template. The full program directory can be viewed on the organization's main website._

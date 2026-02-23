@@ -5,7 +5,7 @@ title: Give to Learning Unlimited
 
 # Give to LU
 
-*Help each student to find their passion.*
+_Help each student to find their passion._
 
 <!-- Slideshow content -->
 <div id="slideshow">
